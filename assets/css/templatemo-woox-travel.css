@@ -226,7 +226,7 @@ About Page Style
 
 
 .container {
-  background:url(https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-construction-site-background-design-under-neon-skyline-backgroundcolorful-backgroundpainted-backgroundneon-image_60350.jpg);
+  
    background-color: rgba(255, 255, 255, 0.5); /* Transparent white background */
    border-radius: 23px;
    width:80%
@@ -235,7 +235,7 @@ About Page Style
 .blur-bg {
 	width: 100%;
 	height: 100%;
-	background: url(https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-construction-site-background-design-under-neon-skyline-backgroundcolorful-backgroundpainted-backgroundneon-image_60350.jpg) no-repeat center center fixed;
+	
 	background-size: cover;
 	filter: blur(8px) brightness(80%);
 	position: absolute;
@@ -243,7 +243,7 @@ About Page Style
 	top: 0;
 	z-index: 1;
   border-radius: 23px;
-
+  background-color: rgba(220, 54, 54, 0.5);
 }
 .about-main-content .content {
   border-radius: 23px;
